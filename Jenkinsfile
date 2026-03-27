@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         APP_NAME = 'java-app'
-        IMAGE_NAME = 'YOUR_DOCKERHUB_USERNAME/java-app:latest'
+        IMAGE_NAME = 'shubhamx0/java-app:latest'
         SONARQUBE_SERVER = 'SonarQube'
     }
 
